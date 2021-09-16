@@ -7,8 +7,6 @@ export const initialState = {
 };
 
 export const reducer = (state = initialState, action) => {
-  console.log(state);
-  console.log(action);
   switch (action.type) {
     case ADD_MOVIE_ACTION: {
       return { ...state, movies: [...state.movies, action.data] };
