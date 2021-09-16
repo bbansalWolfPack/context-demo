@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Demo App:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application is a very simple demonstration of useContext and useReducer hooks in react. Using these hooks, managing state in application is quite easy and efficient.
 
 ## Available Scripts
 
